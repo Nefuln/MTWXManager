@@ -1,0 +1,6 @@
+framework module Pods_MTWXIntegration {
+  umbrella header "Pods-MTWXIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
